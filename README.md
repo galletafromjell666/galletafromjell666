@@ -3,7 +3,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=galletafromjell666&show_icons=true&theme=jolly)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=galletafromjel666&theme=jolly)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=galletafromjell666&theme=jolly)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=galletafromjell666&layout=compact&theme=jolly)](https://github.com/anuraghazra/github-readme-stats)
 <!--
